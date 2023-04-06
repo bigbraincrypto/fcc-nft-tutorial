@@ -1,0 +1,9 @@
+node_modules
+.env
+.yarnrc.yml
+yarn.lock
+artifacts 
+cache
+.prettierrc
+test
+deployments
